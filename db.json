@@ -1,0 +1,80 @@
+{
+  "uploadvideos": [
+    {
+      "id": "c111",
+      "caption": "Football",
+      "imageURL": "https://cdn.britannica.com/69/228369-050-0B18A1F6/Asian-Cup-Final-2019-Hasan-Al-Haydos-Qatar-Japan-Takumi-Minamino.jpg",
+      "videoURL": "https://www.youtube.com/embed/xcNdWUyqN2s"
+    }
+  ],
+  "categories": [
+    {
+      "id": "717c",
+      "categoryName": "movie",
+      "allVideos": [
+        {
+          "id": "fed8",
+          "caption": "cricket",
+          "imageURL": "https://play-lh.googleusercontent.com/dmXJshpR8Z92vHXfAN4UOHoFsZO7Lw_6g4TGPYxIAX22rjqFn8FjF5ofUTSP4XbWObo=w648-h364-rw",
+          "videoURL": "https://www.youtube.com/embed/oW6asYK4Sg4"
+        },
+        {
+          "id": "c8c7",
+          "caption": "movie",
+          "imageURL": "https://filmfare.wwmindia.com/content/2024/sep/neverletgo11726741369.jpg",
+          "videoURL": "https://www.youtube.com/embed/45k01lWIv0k"
+        },
+        {
+          "id": "c8c7",
+          "caption": "movie",
+          "imageURL": "https://filmfare.wwmindia.com/content/2024/sep/neverletgo11726741369.jpg",
+          "videoURL": "https://www.youtube.com/embed/45k01lWIv0k"
+        },
+        {
+          "id": "c8c7",
+          "caption": "movie",
+          "imageURL": "https://filmfare.wwmindia.com/content/2024/sep/neverletgo11726741369.jpg",
+          "videoURL": "https://www.youtube.com/embed/45k01lWIv0k"
+        }
+      ]
+    },
+    {
+      "id": "abaf",
+      "categoryName": "new",
+      "allVideos": [
+        {
+          "id": "c8c7",
+          "caption": "movie",
+          "imageURL": "https://filmfare.wwmindia.com/content/2024/sep/neverletgo11726741369.jpg",
+          "videoURL": "https://www.youtube.com/embed/45k01lWIv0k"
+        },
+        {
+          "id": "c8c7",
+          "caption": "movie",
+          "imageURL": "https://filmfare.wwmindia.com/content/2024/sep/neverletgo11726741369.jpg",
+          "videoURL": "https://www.youtube.com/embed/45k01lWIv0k"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "62c9",
+      "caption": "cricket",
+      "videoURL": "https://www.youtube.com/embed/oW6asYK4Sg4",
+      "timeStamp": "11/5/2024, 9:32:13 AM GMT+5:30"
+    },
+    {
+      "id": "0bfd",
+      "caption": "movie",
+      "videoURL": "https://www.youtube.com/embed/45k01lWIv0k",
+      "timeStamp": "11/5/2024, 10:12:46 AM GMT+5:30"
+    },
+    {
+      "id": "74a0",
+      "caption": "cricket",
+      "videoURL": "https://www.youtube.com/embed/oW6asYK4Sg4",
+      "timeStamp": "11/5/2024, 10:51:49 AM GMT+5:30"
+    }
+  ]
+}
